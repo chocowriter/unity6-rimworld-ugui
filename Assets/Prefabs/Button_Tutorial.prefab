@@ -188,8 +188,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\uD29C\uD1A0\uB9AC\uC5BC"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 53c86a537c0b4b5459ddeef3a1580fb2, type: 2}
-  m_sharedMaterial: {fileID: -4039189100536764213, guid: 53c86a537c0b4b5459ddeef3a1580fb2, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: fa8519adcdd13014aad7d252ee42071e, type: 2}
+  m_sharedMaterial: {fileID: 3386423927046857111, guid: fa8519adcdd13014aad7d252ee42071e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
