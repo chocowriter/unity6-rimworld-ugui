@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 1a4d912dee5b92144a2e58a14871d667
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8891578673340655963
+    second: ludeon-studios-orange_0
+  - first:
+      213: 2277085815957456646
+    second: ludeon-studios-orange_1
+  - first:
+      213: 4557632688233947493
+    second: ludeon-studios-orange_2
+  - first:
+      213: -4510241987999400030
+    second: ludeon-studios-orange_3
+  - first:
+      213: 5102533394465882033
+    second: ludeon-studios-orange_4
+  - first:
+      213: -5016579504825126202
+    second: ludeon-studios-orange_5
+  - first:
+      213: -925723376495110331
+    second: ludeon-studios-orange_6
+  - first:
+      213: -2042388608139665398
+    second: ludeon-studios-orange_7
+  - first:
+      213: -5395474816631280664
+    second: ludeon-studios-orange_8
+  - first:
+      213: -2410341484640631722
+    second: ludeon-studios-orange_9
+  - first:
+      213: -3930333402243849302
+    second: ludeon-studios-orange_10
+  - first:
+      213: -6771314572638385795
+    second: ludeon-studios-orange_11
+  - first:
+      213: 2873217120761492538
+    second: ludeon-studios-orange_12
+  - first:
+      213: -5915006368911071926
+    second: ludeon-studios-orange_13
+  - first:
+      213: -4778257779995305176
+    second: ludeon-studios-orange_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ludeon-studios-orange_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a657136e44ca9480800000000000000
+      internalID: -8891578673340655963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 81
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607893f2c75d99f10800000000000000
+      internalID: 2277085815957456646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 81
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a4e658c6ff3f30800000000000000
+      internalID: 4557632688233947493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 81
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7e36eec66861c0800000000000000
+      internalID: -4510241987999400030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 81
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff4bf7617dfc640800000000000000
+      internalID: 5102533394465882033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 81
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b463f487816ab0800000000000000
+      internalID: -5016579504825126202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 81
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547dbb76e7b2723f0800000000000000
+      internalID: -925723376495110331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 11
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00e786c16af7a3e0800000000000000
+      internalID: -2042388608139665398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 11
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb6020ad3c6f15b0800000000000000
+      internalID: -5395474816631280664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 52
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6548b94b03fbc8ed0800000000000000
+      internalID: -2410341484640631722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3276e2896a479c0800000000000000
+      internalID: -3930333402243849302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 11
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79867ba5457702a0800000000000000
+      internalID: -6771314572638385795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 12
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a343f859fb7bfd720800000000000000
+      internalID: 2873217120761492538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 11
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45e1e8eb0da9eda0800000000000000
+      internalID: -5915006368911071926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludeon-studios-orange_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 11
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b122a8dd730bdb0800000000000000
+      internalID: -4778257779995305176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ludeon-studios-orange_0: -8891578673340655963
+      ludeon-studios-orange_1: 2277085815957456646
+      ludeon-studios-orange_10: -3930333402243849302
+      ludeon-studios-orange_11: -6771314572638385795
+      ludeon-studios-orange_12: 2873217120761492538
+      ludeon-studios-orange_13: -5915006368911071926
+      ludeon-studios-orange_14: -4778257779995305176
+      ludeon-studios-orange_2: 4557632688233947493
+      ludeon-studios-orange_3: -4510241987999400030
+      ludeon-studios-orange_4: 5102533394465882033
+      ludeon-studios-orange_5: -5016579504825126202
+      ludeon-studios-orange_6: -925723376495110331
+      ludeon-studios-orange_7: -2042388608139665398
+      ludeon-studios-orange_8: -5395474816631280664
+      ludeon-studios-orange_9: -2410341484640631722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
